@@ -9,3 +9,4 @@ notMNIST_small/
 notMNIST-exclude-dup.pickle
 notMNIST-exclude-nearly-dup.pickle
 LogisticRegression.pickle
+text8.zip
